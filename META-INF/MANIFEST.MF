@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Add-Opens: java.base/java.lang java.base/java.lang.reflect javafx.grap
+ hics/javafx.css javafx.base/com.sun.javafx.runtime javafx.controls/co
+ m.sun.javafx.scene.control.behavior javafx.controls/javafx.scene.cont
+ rol.skin javafx.controls/com.sun.javafx.scene.control javafx.base/com
+ .sun.javafx.binding javafx.base/com.sun.javafx.event javafx.graphics/
+ com.sun.javafx.stage
+Add-Exports: java.base/jdk.internal.loader javafx.controls/com.sun.jav
+ afx.scene.control.behavior javafx.controls/javafx.scene.control.skin 
+ javafx.controls/com.sun.javafx.scene.control javafx.base/com.sun.java
+ fx.binding javafx.graphics/com.sun.javafx.stage javafx.base/com.sun.j
+ avafx.event
+Implementation-Version: 3.4.202
+Multi-Release: true
+Microsoft-Auth-Secret: dR.50SWwVez4-PQOF2-e_2GHmC~4Xl-p4p
+Class-Path: pack200.jar
+Microsoft-Auth-Id: 6a3728d6-27a3-4180-99bb-479895b8f88e
+Created-By: Copyright(c) 2013-2021 huangyuhui.
+Main-Class: org.jackhuang.hmcl.Main
+
